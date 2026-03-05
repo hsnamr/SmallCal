@@ -27,3 +27,6 @@ A calendar application for GNUStep (Objective-C) that uses [SmallStepLib](../Sma
 - **Refresh** – Re-fetch events from the current CalDAV calendar (enabled when a CalDAV URL is set).
 
 The main window shows an event list (summary and start date) and a detail area for the selected event.
+
+## License
+GNU Affero General Public License v3.0s
